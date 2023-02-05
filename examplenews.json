@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Harriet Williamson",
+      "title": "There’s no point telling Brits not to get ‘blind drunk’ during an ambulance strike – we can’t help ourselves",
+      "description": "We’re the messy, vomiting Brits abroad, wrecking football matches and strewing kebab wrappers and cigarette ends in our wake",
+      "url": "http://www.independent.co.uk/voices/ambulance-strikes-blind-drunk-steve-barclay-b2249233.html",
+      "urlToImage": "https://static.independent.co.uk/2022/12/21/11/SEI138244744.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-12-21T12:28:28Z",
+      "content": "Sign up for the View from Westminster email for expert analysis straight to your inbox\r\nGet our free View from Westminster email\r\nAs ambulance strikes continue, Steve Barclay, the low-energy health s… [+4505 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "2023 National Signing Day Tracker: College football recruiting updates",
+      "description": "Follow the top college football recruits and commitments from early signing day with our live tracker.",
+      "url": "http://www.foxsports.com/stories/college-football/2023-early-signing-day-tracker-college-football-recruiting-updates",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.20.22_SigningDayTracker_Horizontal.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-21T07:42:18Z",
+      "content": "One of the wildest weeks in college football\r\n is upon us, as the early signing period for 2023 starts Wednesday and runs through Friday. \r\nWe've already seen a flurry of flipped commitments and nota… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Joe Flint, Miles Kruppa",
+      "title": "Google’s YouTube in Talks for Rights to NFL Sunday Ticket",
+      "description": "DirecTV currently pays for rights to subscription package that allows football fans to watch most Sunday afternoon games",
+      "url": "https://www.wsj.com/articles/nfl-in-advanced-talks-with-googles-youtube-for-sunday-ticket-rights-deal-11671579236?mod=hp_lead_pos12",
+      "urlToImage": "https://images.wsj.net/im-689796/social",
+      "publishedAt": "2022-12-20T23:33:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "Lions leap in, Bengals hold steady in Colin's 'Herd Hierarchy'",
+      "description": "Are the Bengals the best team in football? And just how good can the Lions be? Colin Cowherd has the answers.",
+      "url": "http://www.foxsports.com/stories/nfl/lions-leap-in-bengals-hold-steady-in-colins-herd-hierarchy",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.20.22_Herd-Hierarchy_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-20T22:51:23Z",
+      "content": "The 2022 NFL\r\n regular season is winding down, and teams are beginning to punch their ticket to the playoffs. \r\nHow were the Minnesota Vikings impacted by their historic 33-point comeback victory ove… [+5936 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Bryan Fischer",
+      "title": "College football national signing day: Key movers, potential surprises",
+      "description": "Even with the traditional February window, this week's early signing period is where the bulk of the action happens nowadays. Where could we see fireworks?",
+      "url": "http://www.foxsports.com/stories/college-football/national-signing-day-2023-preview",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.20.22_National-Signing-Day-Setup_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-20T20:02:48Z",
+      "content": "It's time once again to fire up those dusty fax machines, brush up on geography and refresh those rankings pages every 20 minutes.\r\nYes, the early signing period in college football starts Wednesday … [+14677 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde",
+      "title": "Coupe du monde 2022 : et à la fin, c’est le Qatar qui gagne",
+      "description": "Le Mondial de football est un succès symbolique et diplomatique pour son pays hôte. Reste à voir s’il sera durable, alors que le pays a été critiqué pour l’impact humain et écologique de la compétition et se trouve maintenant accusé dans le scandale de corrup…",
+      "url": "https://www.lemonde.fr/idees/article/2022/12/19/coupe-du-monde-2022-et-a-la-fin-c-est-le-qatar-qui-gagne_6155036_3232.html",
+      "urlToImage": "https://img.lemde.fr/2022/12/18/0/0/3898/2598/1440/960/60/0/db5b008_5040902-01-06.jpg",
+      "publishedAt": "2022-12-19T10:53:47Z",
+      "content": "Et à la fin, cest le Qatar qui gagne. La formule fameuse de lattaquant anglais Gary Lineker, en 1990, ne désigne plus lAllemagne comme vainqueur fatal des grands affrontements footballistiques. Elle … [+3434 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
